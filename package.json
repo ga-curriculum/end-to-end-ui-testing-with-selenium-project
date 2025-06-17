@@ -1,0 +1,13 @@
+{
+  "name": "end-to-end-ui-testing-with-selenium-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "mdv": "node md-validate.js"
+  },
+  "type": "module",
+  "author": "General Assembly",
+  "dependencies": {
+    "ga-mdlint": "^1.0.5"
+  }
+}
