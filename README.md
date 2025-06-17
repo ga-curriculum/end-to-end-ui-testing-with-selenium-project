@@ -13,11 +13,11 @@ Estimated completion time is around **15 hours**.
 
 1. [Project Journey](./project-journey/README.md) 
 
-2. [Project Requirements and Guidance](./project-requirements-and-guidance/README.md) tktk
+2. [Project Requirements and Guidance](./project-requirements-and-guidance/README.md)
 
-   - [Project Requirements PDF](./project-requirements-and-guidance/assets/project-requirements.pdf) tktk
+   - [Project Requirements PDF](./project-requirements-and-guidance/assets/project-requirements.pdf)
 
-3. [Step-by-Step Project Build](./step-by-step-project-build/README.md) tktk
+3. [Step-by-Step Project Build](./step-by-step-project-build/README.md)
 
 4. [Project GitHub Repo URL Deliverable](./project-github-repo-url-deliverable/README.md)
 
@@ -26,7 +26,7 @@ Estimated completion time is around **15 hours**.
 
 ### Content
 
-[Project Requirements Google Sheets](tktk)
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/18MqbP-ValMmu0UE_PMJEzYrmdlfIIX8-pU1ao8TdZWg/edit?usp=sharing)
 
 ### Prerequisites
 
