@@ -60,7 +60,7 @@ Your application must meet the following requirements:
 
 ## Code Convention and Design Requirements
 
-> ✅ More than **two** incomplete items in this section will result in a failing grade.
+> ✅ More than **three** incomplete items in this section will result in a failing grade.
 
 - The code must be well-organized and modular, following FastAPI best practices.
 
